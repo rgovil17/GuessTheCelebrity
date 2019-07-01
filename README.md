@@ -1,7 +1,7 @@
 # Guess The Celebrity
 An Android Application developed using Java that tests your knowledge of Hollywood celebrities.  
 
-It uses data from the Swedish site http://www.posh24.se/kandisar and extracts the celebrities’ names & images directly from the page source.
+It uses data from the Swedish site [Posh24](http://www.posh24.se/kandisar) and extracts the celebrities’ names & images directly from the page source.
 
 
 ### Screenshots
